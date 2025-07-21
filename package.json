@@ -1,0 +1,16 @@
+
+{
+  "name": "whatsapp-dify-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp integrado ao Dify AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
