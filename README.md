@@ -1,12 +1,20 @@
+
 # WhatsApp Dify Bot
-Bot para WhatsApp integrado ao Dify AI.
+
+Bot integrado ao WhatsApp e ao Dify AI, hospedado no Railway.
 
 ## Instalação
-```bash
+```
 npm install
 ```
 
-## Executar
-```bash
+## Execução local
+```
 npm start
+```
+
+## Webhook
+Certifique-se de definir o token de verificação no Meta/Facebook como:
+```
+difybot123
 ```
